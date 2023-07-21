@@ -1,5 +1,5 @@
-# pokerGameDSA
-A C++ console program for the pre-requisite in the subject Data Structure and Algorithms
+# Poker Game
+A C++ console poker game program
 
 ## Introduction
 Welcome to the C++ console-based poker game. This game allows you to play against three computer opponents and test your poker skills. The game follows the rules of Texas Hold'em, and at the end of each match, the card hands are analyzed to determine the winner.
